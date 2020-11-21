@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MeetingDB_changeDriver:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MeetingDB_changeDriver_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MeetingDB_changeDriver/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MeetingDB_changeDriver" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
